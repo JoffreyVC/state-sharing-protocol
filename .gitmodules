@@ -3,4 +3,4 @@
 	url = https://github.com/JoffreyVC/State_Sharing_Protocol.git
 [submodule "dependencies/prysm"]
 	path = dependencies/prysm
-	url = https://github.com/prysmaticlabs/prysm.git
+	url = https://github.com/JoffreyVC/prysm.git
