@@ -26,3 +26,14 @@ $GETH_BINARY \
   ...
 ```
 
+## Main Code Changes
+
+The most relevant changes were made in **go-ethereum**:
+
+- `dependencies/go-ethereum/core/statedb.go`  
+- `dependencies/go-ethereum/eth/protocols/eth`  
+- `dependencies/go-ethereum/kademlia` (new)  
+- `dependencies/go-ethereum/partial-storage` (new)  
+
+
+
