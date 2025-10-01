@@ -30,8 +30,11 @@ $GETH_BINARY \
 
 The most relevant changes were made in **go-ethereum**:
 
-- `dependencies/go-ethereum/core/statedb.go`  
-- `dependencies/go-ethereum/eth/protocols/eth`  
+- `dependencies/go-ethereum/core/statedb.go`
+- `dependencies/go-ethereum/core/blockchain.go`  
+- `dependencies/go-ethereum/eth/protocols/eth`
+- `dependencies/go-ethereum/eth/backend.go`
+- `dependencies/go-ethereum/cmd/geth` 
 - `dependencies/go-ethereum/kademlia` (new)  
 - `dependencies/go-ethereum/partial-storage` (new)  
 
